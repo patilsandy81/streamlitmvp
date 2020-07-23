@@ -6,7 +6,7 @@ RUN apt-get update -y \
     && apt-get install -y gcc
     
     #python-setuptools \
-    python3-pip \
+    #python3-pip \
     && apt-get clean \
     && apt-get autoremove
 
