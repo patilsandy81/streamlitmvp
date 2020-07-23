@@ -3,7 +3,7 @@ FROM python:3.7-slim
 EXPOSE 8501
 
 RUN apt-get update -y \
-    && apt-get install -y gcc
+    && apt-get install -y gcc \
     
     #python-setuptools \
     #python3-pip \
