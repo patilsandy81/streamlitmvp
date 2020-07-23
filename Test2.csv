@@ -1,0 +1,2 @@
+Index,target,load,SensorI,SensorII,SensorIII,SensorIV,sum_Sensor,ABSsum_Sensor,median_Sensor,SensorI^2,SensorII^2,SensorIII^2,SensorIV^2,SensorI^3,SensorII^3,SensorIII^3,SensorIV^3,Multi_Sensor
+888,1,50,-13.1407,-2.10627,5.11521,4.71967,-5.41209,25.08185,1.3067,172.6779965,4.436373313,26.16537334,22.27528491,-2269.109748,-9.344200018,133.8413794,105.1319939,668.2018048
