@@ -1,6 +1,6 @@
 featuretools == 0.13.4
 matplotlib == 3.2.1
-numpy == 1.18.5
+numpy == 1.22.0
 pandas == 1.0.4
 pandas-profiling == 2.8.0
 scikit-learn == 0.22.1
